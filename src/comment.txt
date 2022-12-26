@@ -1,0 +1,6 @@
+- Đặt tên folder chưa đồng nhất - e vẫn chưa hiểu cái này cho lắm, em sửa theo ý hiểu của e
+- Form:
+  + Thiếu validation cho email, địa chỉ, ngày sinh, tuổi - em đã sửa
+  + Default value không hiển thị nhưnng vẫn có trong form payload - e đã sửa
+  + Hiển thị thiếu trường / map trường hiển thị với data trả về không đúng (phone, gender, isGraduate...) - em đã fix
+- Code không format - e đã làm
